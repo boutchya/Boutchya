@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>รายชื่อนักเรียน ม.2/2</title>
+    <style>
+        table {
+            width: 80%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: lightgray;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>รายชื่อนักเรียนชั้นมัธยมศึกษาปีที่ 2/2</h2>
+    <p>ภาคเรียนที่ 2 ปีการศึกษา 2566</p>
+
+    <table>
+        <tr>
+            <th>เลขที่</th>
+            <th>เลขประจำตัว</th>
+            <th>ชื่อ</th>
+            <th>นามสกุล</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>04668</td>
+            <td>เด็กชายนัสรี</td>
+            <td>อายะมะโซ</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>04669</td>
+            <td>เด็กชายมหูมัหมัดกาฟี</td>
+            <td>สานิ</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>04670</td>
+            <td>เด็กชายรุสกี</td>
+            <td>เสะสุลี</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>04671</td>
+            <td>เด็กหญิงศศิกานต์</td>
+            <td>สีสาย</td>
+        </tr>
+        <tr>
+            <td>...</td>
+            <td>...</td>
+            <td>...</td>
+            <td>...</td>
+        </tr>
+    </table>
+
+</body>
+</html>
