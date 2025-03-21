@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>รายชื่อนักเรียน ม.2/2</title>
+    <style>
+        table {
+            width: 80%;
+            border-collapse: collapse;
+            margin: 20px auto;
+            background-color: yellow; /* กำหนดพื้นหลังสีเหลือง */
+        }
+        th, td {
+            border: 2px solid red; /* กำหนดเส้นขอบสีแดง ขนาด 2px */
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: orange; /* พื้นหลังของหัวตารางเป็นสีส้ม */
+        }
+    </style>
+</head>
+<body>
+
+    <h2 style="text-align: center;">รายชื่อนักเรียนชั้นมัธยมศึกษาปีที่ 2/2</h2>
+    <p style="text-align: center;">ภาคเรียนที่ 2 ปีการศึกษา 2566</p>
+
+    <table>
+        <tr>
+            <th>เลขที่</th>
+            <th>เลขประจำตัว</th>
+            <th>ชื่อ</th>
+            <th>นามสกุล</th>
+        </tr>
+        <tr><td>1</td><td>04668</td><td>เด็กชายนัสรี</td><td>อายะมะโซ</td></tr>
+        <tr><td>2</td><td>04669</td><td>เด็กชายมหูมัหมัดกาฟี</td><td>สานิ</td></tr>
+        <tr><td>3</td><td>04670</td><td>เด็กชายรุสกี</td><td>เสะสุลี</td></tr>
+        <tr><td>4</td><td>04671</td><td>เด็กหญิงศศิกานต์</td><td>สีสาย</td></tr>
+        <tr><td>5</td><td>04672</td><td>เด็กชายอะนัส</td><td>ลีเดร์</td></tr>
+        <tr><td>6</td><td>04673</td><td>เด็กชายอบัดุลฮาฟิ</td><td>มะมิง</td></tr>
+        <tr><td>7</td><td>04674</td><td>เด็กชายอฟัฟาน</td><td>โตะแวฮายี</td></tr>
+        <tr><td>8</td><td>04675</td><td>เด็กชายอัรฟาม</td><td>ปากาลาแล</td></tr>
+        <tr><td>9</td><td>04676</td><td>เด็กชายอาธิติ</td><td>พุฒซ้อน</td></tr>
+        <tr><td>10</td><td>04677</td><td>เด็กชายอิสกอรนัย</td><td>เจ๊ะอุเซ็ง</td></tr>
+        <tr><td>11</td><td>04678</td><td>เด็กชายเอกรัฐ</td><td>ชูแก้ว</td></tr>
+        <tr><td>12</td><td>04679</td><td>เด็กหญิงซัยนับ</td><td>กาโฮง</td></tr>
+        <tr><td>13</td><td>04680</td><td>เด็กหญิงฐิตาพร</td><td>ทองแก้วศรี</td></tr>
+        <tr><td>14</td><td>04682</td><td>เด็กชายจิราวัฒน์</td><td>สงข์เพชร</td></tr>
+        <tr><td>15</td><td>04683</td><td>เด็กหญิงนูรซูไฮลา</td><td>บอสู</td></tr>
+        <tr><td>16</td><td>04684</td><td>เด็กหญิงรุสนานี</td><td>ลาเตะ</td></tr>
+        <tr><td>17</td><td>04685</td><td>เด็กหญิงสกัุญญา</td><td>นาวาเดช</td></tr>
+        <tr><td>18</td><td>04686</td><td>เด็กหญิงสุดาลักษณ์</td><td>พราหมณ์เอม</td></tr>
+        <tr><td>19</td><td>04687</td><td>เด็กหญิงสนุนัดา</td><td>ภูผาลี</td></tr>
+        <tr><td>20</td><td>04688</td><td>เด็กหญิงเสาว์ลักษณ์</td><td>กองทรัพย์</td></tr>
+        <tr><td>21</td><td>04689</td><td>เด็กหญิงฮานนา</td><td>กาจิ</td></tr>
+        <tr><td>22</td><td>04731</td><td>เด็กหญิงนูรอาฟาติน</td><td>ปาเซเลาะ</td></tr>
+        <tr><td>23</td><td>04741</td><td>เด็กหญิงฮาฟีซะห์</td><td>สะระยะ</td></tr>
+        <tr><td>24</td><td>04878</td><td>นายอารีฟีน</td><td>มะยิ</td></tr>
+    </table>
+
+</body>
+</html>
